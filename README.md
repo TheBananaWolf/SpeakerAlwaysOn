@@ -1,6 +1,6 @@
-# Marshall Standby Mode Disabler
+# Speaker Standby Mode Disabler
 
-A simple script to disable the standby mode of Marshall speakers.
+A simple script to disable the standby mode for your speakers.
 
 ## Installation
 
